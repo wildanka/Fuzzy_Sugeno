@@ -1,2 +1,4 @@
 # Fuzzy_Sugeno
-menghitung harga optimal untuk penjualan lele menggunakan fuzzy logic dengan metode sugeno
+Example of Fuzzy Logic using Sugeno Defuzzification Technique.
+Case Study: Finding Optimum Price in 3 class category for selling fish
+
